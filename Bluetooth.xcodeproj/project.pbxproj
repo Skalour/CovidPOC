@@ -15,6 +15,7 @@
 		0C54FC742477C8EF00694C4A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0C54FC722477C8EF00694C4A /* LaunchScreen.storyboard */; };
 		0C54FC7F2477C8EF00694C4A /* BluetoothTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C54FC7E2477C8EF00694C4A /* BluetoothTests.swift */; };
 		0C54FC8A2477C8EF00694C4A /* BluetoothUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C54FC892477C8EF00694C4A /* BluetoothUITests.swift */; };
+		0C54FC982477CA4D00694C4A /* MacPeripheral.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C54FC972477CA4D00694C4A /* MacPeripheral.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		0C54FC852477C8EF00694C4A /* BluetoothUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BluetoothUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0C54FC892477C8EF00694C4A /* BluetoothUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BluetoothUITests.swift; sourceTree = "<group>"; };
 		0C54FC8B2477C8EF00694C4A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0C54FC972477CA4D00694C4A /* MacPeripheral.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MacPeripheral.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				0C54FC702477C8EF00694C4A /* Assets.xcassets */,
 				0C54FC722477C8EF00694C4A /* LaunchScreen.storyboard */,
 				0C54FC752477C8EF00694C4A /* Info.plist */,
+				0C54FC972477CA4D00694C4A /* MacPeripheral.swift */,
 			);
 			path = Bluetooth;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 				0C54FC6C2477C8EE00694C4A /* ViewController.swift in Sources */,
 				0C54FC682477C8EE00694C4A /* AppDelegate.swift in Sources */,
 				0C54FC6A2477C8EE00694C4A /* SceneDelegate.swift in Sources */,
+				0C54FC982477CA4D00694C4A /* MacPeripheral.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
